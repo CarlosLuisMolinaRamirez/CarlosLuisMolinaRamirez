@@ -1,8 +1,8 @@
 <img src="./banner.png?v=3" alt="Carlos Molina · Front-end · Desarrollador en formación en Buenos Aires. Mi camino: HTML y CSS completado, JavaScript en curso y Full Stack como próximo paso." width="100%">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlosluismolina"><img src="https://img.shields.io/badge/LinkedIn-4C8DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:carllsmra@gmail.com"><img src="https://img.shields.io/badge/Email-4C8DFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/carlosluismolina"><img src="./assets/boton-linkedin.svg" alt="LinkedIn de Carlos Molina" height="44"></a>
+  <a href="mailto:carllsmra@gmail.com"><img src="./assets/boton-email.svg" alt="Enviarme un email" height="44"></a>
 </p>
 
 ## Sobre mí
