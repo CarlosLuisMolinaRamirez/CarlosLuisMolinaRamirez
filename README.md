@@ -33,6 +33,6 @@ Lista de tareas con estética de vidrio, modo claro y oscuro y diseño responsiv
 <a href="https://carlosluismolinaramirez.github.io/taskflow/"><img src="https://raw.githubusercontent.com/CarlosLuisMolinaRamirez/taskflow/main/design/escritorio-oscuro.png" alt="Captura de TaskFlow en modo oscuro" width="100%"></a>
 
 <p>
-  <a href="https://carlosluismolinaramirez.github.io/taskflow/"><img src="https://img.shields.io/badge/Ver_demo-4C8DFF?style=for-the-badge" alt="Ver demo"></a>
-  <a href="https://github.com/CarlosLuisMolinaRamirez/taskflow"><img src="https://img.shields.io/badge/Ver_c%C3%B3digo-0B1218?style=for-the-badge&logo=github&logoColor=4C8DFF" alt="Ver código"></a>
+  <a href="https://carlosluismolinaramirez.github.io/taskflow/"><img src="./assets/boton-demo.svg" alt="Ver la demo de TaskFlow" height="44"></a>
+  <a href="https://github.com/CarlosLuisMolinaRamirez/taskflow"><img src="./assets/boton-codigo.svg" alt="Ver el código de TaskFlow" height="44"></a>
 </p>
