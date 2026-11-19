@@ -1,4 +1,4 @@
-<img src="./banner.png?v=2" alt="Carlos Molina · Front-end · Desarrollador en formación en Buenos Aires. Mi camino: HTML y CSS completado, JavaScript en curso y Full Stack como próximo paso." width="100%">
+<img src="./banner.png?v=3" alt="Carlos Molina · Front-end · Desarrollador en formación en Buenos Aires. Mi camino: HTML y CSS completado, JavaScript en curso y Full Stack como próximo paso." width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlosluismolina"><img src="https://img.shields.io/badge/LinkedIn-4C8DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
