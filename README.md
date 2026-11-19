@@ -16,12 +16,12 @@ Soy Carlos, de Buenos Aires. Soy estudiante de la Tecnicatura Universitaria en P
 ## Tecnologías
 
 <p>
-  <img src="https://img.shields.io/badge/HTML-0B1218?style=for-the-badge&logo=html5&logoColor=4C8DFF" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-0B1218?style=for-the-badge&logo=css&logoColor=4C8DFF" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-0B1218?style=for-the-badge&logo=javascript&logoColor=4C8DFF" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Git-0B1218?style=for-the-badge&logo=git&logoColor=4C8DFF" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-0B1218?style=for-the-badge&logo=github&logoColor=4C8DFF" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-0B1218?style=for-the-badge" alt="VS Code">
+  <img src="https://img.shields.io/badge/HTML-212C3D?style=for-the-badge&logo=html5&logoColor=A0B5DB" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-212C3D?style=for-the-badge&logo=css&logoColor=A0B5DB" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-212C3D?style=for-the-badge&logo=javascript&logoColor=A0B5DB" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-212C3D?style=for-the-badge&logo=git&logoColor=A0B5DB" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-212C3D?style=for-the-badge&logo=github&logoColor=A0B5DB" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-212C3D?style=for-the-badge" alt="VS Code">
 </p>
 
 ## Proyecto destacado
