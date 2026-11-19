@@ -7,7 +7,7 @@
 
 ## Sobre mí
 
-Soy Carlos, de Buenos Aires. Estudio desarrollo web de forma autodidacta y mi meta es trabajar como desarrollador Full Stack.
+Soy Carlos, de Buenos Aires. Soy estudiante de la Tecnicatura Universitaria en Programación en la UTN y, en paralelo, aprendo desarrollo web de forma autodidacta. Mi meta es trabajar como desarrollador Full Stack.
 
 - Aprendo con freeCodeCamp y llevo lo que aprendo a proyectos propios.
 - Me importan los detalles: accesibilidad, diseño responsive y código prolijo.
